@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated certificates and temporary keys
+*.crt
+*.key
+*.pem
+*.log
